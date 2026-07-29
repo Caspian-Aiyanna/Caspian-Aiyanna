@@ -43,15 +43,15 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Caspian-aiyanna&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
 </p>
 
-### 🌱 A bit more about me
+### A bit more about me
 
 Background in wildlife ecology, now working across remote sensing, spatial modelling, and conservation practice. Erasmus Mundus master's between Wageningen University & Research and the University of Padova. Before that, a year of community-based elephant conflict mitigation and over 25 snake rescues in human-dominated landscapes in India. One of those projects appeared in a National Geographic documentary.
 
 Most of what I write ends up on GitHub.
 
-**Languages:** English · [add others]
+**Languages:** English ·
 
-**Outside work:** [wildlife photography / birding / whatever fits]
+**Outside work:** [wildlife photography / birding / Naturalist / Snake Rescuer / Traveller]
 
 ---
 
