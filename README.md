@@ -45,7 +45,7 @@
 
 ### A bit more about me
 
-Background in wildlife ecology, now working across remote sensing, spatial modelling, and conservation practice. Erasmus Mundus master's between Wageningen University & Research and the University of Padova. Before that, a year of community-based elephant conflict mitigation and over 25 snake rescues in human-dominated landscapes in India. One of those projects appeared in a National Geographic documentary.
+Background in wildlife ecology, agriculture and nature conservation, now working across remote sensing, spatial modelling, and conservation practice. I have a Forest Science masters degree from University of Padova, Italy including an Erasmus master's exchange to Wageningen University & Research. Before that, a year of community-based elephant conflict mitigation and over 25 snake rescues in human-dominated landscapes in India. One of those projects appeared in a National Geographic documentary.
 
 Most of what I write ends up on GitHub.
 
