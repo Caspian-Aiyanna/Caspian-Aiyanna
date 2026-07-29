@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Caspian-aiyanna">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9E6B&center=true&vCenter=true&width=600&lines=PhD+researcher+in+Remote+Sensing;Wildlife+Ecology+climate+modelling;Species+distribution+models+under+climate+change;Elephant+telemetry+and+satellite+data;Python+%7C+R+%7C+Google+Earth+Engine" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9E6B&center=true&vCenter=true&width=600&lines=PhD+researcher+in+Remote+Sensing;Wildlife+Ecology+&+climate+modelling;Species+distribution+models+under+climate+change;Elephant+telemetry+and+satellite+data;Python+%7C+R+%7C+Google+Earth+Engine" alt="Typing SVG" />
   </a>
 </p>
 
