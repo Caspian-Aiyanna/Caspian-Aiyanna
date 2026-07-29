@@ -22,7 +22,7 @@
 - 🛰️ Satellite time series (land cover, phenology, climate reanalysis) as model predictors
 - 📍 Behavioural analysis of elephant GPS telemetry
 - 🎓 PhD candidate, ecological modelling of climate-driven habitat change
-- 📖 Methods and code released openly so others can check and reuse them
+- 📖 Methods and code released for replicability across diverse ecosystems and complex species
 
 ### 🛠️ Tech stack
 
