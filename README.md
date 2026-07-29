@@ -1,8 +1,8 @@
-### Modelling how climate change reshapes wildlife habitat
+### Species distribution modelling, elephant movement, and remote sensing
 
 <p align="center">
   <a href="https://github.com/Caspian-aiyanna">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9E6B&center=true&vCenter=true&width=600&lines=PhD+Researcher+%7C+Wildlife+Ecology+%26+Remote+Sensing;Species+Distribution+Modelling+under+Climate+Change;Python+%7C+R+%7C+Google+Earth+Engine;Elephants+%C2%B7+Forests+%C2%B7+Open+Science" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9E6B&center=true&vCenter=true&width=600&lines=PhD+researcher+in+wildlife+ecology;Species+distribution+models+under+climate+change;Elephant+telemetry+and+satellite+data;Python+%7C+R+%7C+Google+Earth+Engine" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,11 +18,11 @@
 
 ### 🔭 What I'm working on
 
-- 🐘 Building **species distribution and habitat suitability models** for large mammals under climate scenarios
-- 🛰️ Using **satellite time series** (land cover, phenology, climate reanalysis) as ecological predictors
-- 🌏 Translating field-derived knowledge from **human-wildlife conflict landscapes in India** into model structure
+- 🐘 Habitat suitability and species distribution models for large mammals under climate scenarios
+- 🛰️ Satellite time series (land cover, phenology, climate reanalysis) as model predictors
+- 📍 Behavioural analysis of elephant GPS telemetry
 - 🎓 PhD candidate, ecological modelling of climate-driven habitat change
-- 📖 Publishing methods and code openly so they can be reused and checked
+- 📖 Methods and code released openly so others can check and reuse them
 
 ### 🛠️ Tech stack
 
@@ -32,11 +32,9 @@
 
 ### 📦 Featured projects
 
-<!-- Replace the three blocks below with real repositories. Delete any you don't fill in. -->
-
-- **[repo-name-1](https://github.com/Caspian-aiyanna/repo-name-1)**: one line on what it does and what data it takes.
-- **[repo-name-2](https://github.com/Caspian-aiyanna/repo-name-2)**: one line on what it does and what data it takes.
-- **[repo-name-3](https://github.com/Caspian-aiyanna/repo-name-3)**: one line on what it does and what data it takes.
+- **[H2O PanEuropa](https://github.com/Caspian-Aiyanna/H2O_Paneuropa)**: automated species distribution modelling. Prototype, in progress.
+- **[BioHabs](https://github.com/Caspian-Aiyanna/BioHabs)**: decoding elephant behaviour from telemetry data.
+- **[Sentinel Conservation](https://github.com/Caspian-Aiyanna/Sentinel-conservation)**: tooling for species conservation projects. Prototype, in progress.
 
 ### 📊 GitHub stats
 
@@ -47,9 +45,9 @@
 
 ### 🌱 A bit more about me
 
-Background in wildlife ecology, now working across remote sensing, spatial modelling, and conservation practice. Erasmus Mundus master's between Wageningen University & Research and the University of Padova. Before the modelling, a year of community-based elephant conflict mitigation and over 25 snake rescues in human-dominated landscapes in India; one of those projects appeared in a National Geographic documentary.
+Background in wildlife ecology, now working across remote sensing, spatial modelling, and conservation practice. Erasmus Mundus master's between Wageningen University & Research and the University of Padova. Before that, a year of community-based elephant conflict mitigation and over 25 snake rescues in human-dominated landscapes in India. One of those projects appeared in a National Geographic documentary.
 
-Most of what I build ends up on GitHub, because conservation needs better data and data needs the wisdom of the field.
+Most of what I write ends up on GitHub.
 
 **Languages:** English · [add others]
 
